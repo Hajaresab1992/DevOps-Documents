@@ -1,4 +1,4 @@
-# Jenkins Server Setup in Linux VM #
+# Jenkins Server Setup in Linux VM ##
 
 ## Step - 1 : Create Linux VM ##
 

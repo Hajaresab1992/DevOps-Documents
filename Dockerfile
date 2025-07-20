@@ -4,4 +4,4 @@ MAINTAINER imhajji.naikar@gmail.com
 
 EXPOSE 8080
 
-COPY target/mvn war.war /usr/local/tomcat/webapps/mvn war.war
+COPY target/maven-web-app.war /usr/local/tomcat/webapps/maven-web-app.war

@@ -4,8 +4,6 @@ metadata:
   name: webapp-deployment
 spec:
   replicas: 2
-  stratergy:
-    type: Recreate
   selector:
     matchLabels:
       app: mavenwebapp
